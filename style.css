@@ -1,0 +1,23 @@
+body{
+    background-image: url(./img/dark-green-ge3e3ad06f_1280.png);
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+h1 {
+    color:goldenrod;
+}
+
+p{
+    color: white;
+    font-weight: bold;
+}
+button{
+    background: goldenrod;
+    width: 150px;
+    color: #016f32;
+    padding: 5px 5px;
+    margin: 5px 5px;
+}
